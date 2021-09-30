@@ -1,14 +1,16 @@
 --------------------------------------------------
 
 NOTES: 
+! As of 09/30/21 checkra1n still didn't fix this issue / release a new update and this method still works.
+I will be making a new guide (with pictures) how to use this script as it was complicated for many people.
 
 This script can only be used on macOS and with the Beta Version 0.12.4 of checkra1n!
 
 
 Requirements: 
 
-- iPad Pro 9.7-inch (2015) or iPad Pro 12.9-inch (2015) with iOS 14.5 or higher
-- checkra1n should be installed & located in the Applications folder, if not, move it to there or change the path
+- iPad Pro 9.7-inch (2016) or iPad Pro 12.9-inch (2015) with iOS 14.5 or higher
+- checkra1n installed & located in the Applications folder, if it's not there, move it to there or change the path in the script
 
 --------------------------------------------------
 
@@ -30,7 +32,5 @@ Run the script.
 Plug in the iPad, in Options mark "Allow untested iOS/iPadOS/tvOS versions".
 
 Jailbreak your A9X device.
-
-Enjoy.
 
 --------------------------------------------------
