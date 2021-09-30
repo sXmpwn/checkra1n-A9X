@@ -2,10 +2,9 @@
 
 NOTES: 
 
-(!) As of 09/30/21 checkra1n still didn't fix this issue / release a new update and this method still works.
-I will be making a new guide (with pictures) how to use this script as it was complicated for many people.
+(!) As of 30th September 2021, checkra1n still didn't fix this issue / release a new update so this method still works.
 
-This script can only be used on macOS and with the Beta Version 0.12.4 of checkra1n!
+Also, I will be making a new guide (with pictures) how to use this script as it was complicated for many people.
 
 
 Requirements: 
