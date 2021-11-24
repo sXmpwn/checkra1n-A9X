@@ -1,11 +1,9 @@
+Notes: 
+
+(!) As of November 24th 2021, checkra1n still didn't fix this issue / release a new update, so this method still works.
+Soon, I will be making a new guide (with pictures) on how to use this script as it was complicated for many people.
+
 --------------------------------------------------
-
-NOTES: 
-
-(!) As of November 24th 2021, checkra1n still didn't fix this issue / release a new update so this method still works.
-
-Also, soon, I will be making a new guide (with pictures) on how to use this script as it was complicated for many people.
-
 
 Requirements: 
 
@@ -32,5 +30,3 @@ Run the script.
 Plug in the iPad, in Options mark "Allow untested iOS/iPadOS/tvOS versions".
 
 Jailbreak your A9X device.
-
---------------------------------------------------
