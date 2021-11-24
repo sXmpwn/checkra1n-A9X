@@ -2,9 +2,9 @@
 
 NOTES: 
 
-(!) As of 30th September 2021, checkra1n still didn't fix this issue / release a new update so this method still works.
+(!) As of November 24th 2021, checkra1n still didn't fix this issue / release a new update so this method still works.
 
-Also, I will be making a new guide (with pictures) how to use this script as it was complicated for many people.
+Also, soon, I will be making a new guide (with pictures) on how to use this script as it was complicated for many people.
 
 
 Requirements: 
