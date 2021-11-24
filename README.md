@@ -10,7 +10,7 @@ Also, soon, I will be making a new guide (with pictures) on how to use this scri
 Requirements: 
 
 - iPad Pro 9.7-inch (2016) or iPad Pro 12.9-inch (2015) with iOS 14.5 or higher
-- checkra1n installed & located in the Applications folder, if it's not there, move it to there or change the path in the script
+- checkra1n.app installed & located in the Applications folder, if it's not there, move it to there or change the path in the script
 
 --------------------------------------------------
 
